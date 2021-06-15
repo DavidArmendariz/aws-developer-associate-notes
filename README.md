@@ -4,4 +4,5 @@
   * AWS Cloud Overview
 * IAM
   * Introduction
+  * Policies
   
