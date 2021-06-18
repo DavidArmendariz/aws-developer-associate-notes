@@ -15,4 +15,5 @@
   * EC2 Instance Types
   * Security Groups
   * SSH
+  * EC2 Instance Launch Types
   
