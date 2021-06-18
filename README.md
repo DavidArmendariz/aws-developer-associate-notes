@@ -14,4 +14,5 @@
   * Basics
   * EC2 Instance Types
   * Security Groups
+  * SSH
   
