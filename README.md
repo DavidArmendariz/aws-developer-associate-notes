@@ -20,4 +20,5 @@
   * EBS Overview
   * EBS Snapshots
   * AMI Overview
+  * EC2 Instance Store
   
