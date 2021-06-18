@@ -19,4 +19,5 @@
 * EC2 Instance Storage
   * EBS Overview
   * EBS Snapshots
+  * AMI Overview
   
