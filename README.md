@@ -13,4 +13,5 @@
 * EC2 Fundamentals
   * Basics
   * EC2 Instance Types
+  * Security Groups
   
