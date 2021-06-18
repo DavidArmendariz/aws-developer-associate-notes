@@ -16,4 +16,6 @@
   * Security Groups
   * SSH
   * EC2 Instance Launch Types
+* EC2 Instance Storage
+  * EBS Overview
   
