@@ -10,4 +10,6 @@
   * IAM Roles
   * IAM Security Tools
   * IAM Best Practices
+* EC2 Fundamentals
+  * Basics
   
