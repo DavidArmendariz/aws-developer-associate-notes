@@ -25,4 +25,6 @@
   * EBS Multi-Attach
   * EFS
   * EFS vs EBS
+* ELB + ASG
+  * High availability and scalability
   
