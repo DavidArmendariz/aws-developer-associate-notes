@@ -23,4 +23,5 @@
   * EC2 Instance Store
   * EBS Volume Types
   * EBS Multi-Attach
+  * EFS
   
