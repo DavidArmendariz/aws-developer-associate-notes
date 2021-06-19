@@ -21,4 +21,5 @@
   * EBS Snapshots
   * AMI Overview
   * EC2 Instance Store
+  * EBS Volume Types
   
