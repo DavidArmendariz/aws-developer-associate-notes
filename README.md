@@ -36,4 +36,5 @@
   * SSL Certificates
   * Connection Draining
   * Auto Scaling Group Overview
+  * Scaling Policies
   
