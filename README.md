@@ -35,4 +35,5 @@
   * Cross Zone LOad Balancing
   * SSL Certificates
   * Connection Draining
+  * Auto Scaling Group Overview
   
