@@ -32,4 +32,6 @@
   * Application Load Balancer
   * Network Load Balancer
   * Stickiness
+  * Cross Zone LOad Balancing
+  * SSL Certificates
   
