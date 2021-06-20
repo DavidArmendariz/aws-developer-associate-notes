@@ -34,4 +34,5 @@
   * Stickiness
   * Cross Zone LOad Balancing
   * SSL Certificates
+  * Connection Draining
   
