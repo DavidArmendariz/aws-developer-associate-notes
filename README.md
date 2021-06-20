@@ -27,4 +27,5 @@
   * EFS vs EBS
 * ELB + ASG
   * High availability and scalability
+  * Elastic Load Balancing Overview
   
