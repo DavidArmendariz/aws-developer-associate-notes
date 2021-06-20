@@ -31,4 +31,5 @@
   * Classic Load Balancer
   * Application Load Balancer
   * Network Load Balancer
+  * Stickiness
   
