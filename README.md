@@ -41,4 +41,5 @@
   * Amazon RDS Overview
   * RDS Read Replicas vs Multi AZ
   * RDS Encryption + Security
+  * Amazon Aurora
   
